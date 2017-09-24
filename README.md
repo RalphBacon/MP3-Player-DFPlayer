@@ -16,15 +16,15 @@ that should get you going nicely too.
 STOP! READ THIS IF YOU VALUE YOUR MP3 PLAYER MODULE
 ---------------------------------------------------
 
-The RX and TX from the Arduino Uno or Nano will be 5V and will damage the MP3 player which requires 3.3V on these pins. Connect a 1K and 2K resistor like this:
+The RX and TX from the Arduino Uno or Nano will be 5V and will damage the MP3 player which requires 3.3V on these pins. Connect a 1K and 2K resistor like this (see the 20160612_200645.jpg file in this repository)
 
 Arduino TX >------- 1K -----------> RX MP3 Player  
-							 |  
-							 |  
-							 2K  
-							 |  
-							 |  
-							GND  
+                                   |  
+                                   |   
+                                  2K  
+                                   |  
+                                   |  
+                                  GND  
   
 Arduino RX <------- 1K -----------< TX MP3 Player  
 							 |  
