@@ -26,8 +26,8 @@ Essential reading (recommended print)
 1. The DFrobot Wiki for the DFPlayer
    http://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299
 
-2. Link to the Mini DF Player Manual (more technical but essential if you want to know the commands)
-   https://db.tt/3ZX91wg7
+2. Link to the Mini DF Player Manual (more technical but essential if you want to know the commands)  
+   (It's in this repository, named _DFPlayer Mini Manual.pdf_)
 
 Further information
 1. A massive amount of extra information from Yerke (via the Banggood forum)
