@@ -30,7 +30,8 @@ Essential reading (recommended print)
    (It's in this repository, named _DFPlayer Mini Manual.pdf_)
 
 Further information
-1. A massive amount of extra information from Yerke (via the Banggood forum)
+1. A massive amount of extra information from Yerke (via the Banggood forum).  
+   Link was down recently but may reappear:  
    http://forum.banggood.com/forum-topic-59997.html
    
 2. This entry has been intentionally left blank. I think so anyway.
